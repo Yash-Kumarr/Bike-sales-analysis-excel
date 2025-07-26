@@ -11,19 +11,19 @@ This project provides a comprehensive sales analysis using Microsoft Excel. It i
 
 ## 📁 Files Included
 
-1. **Raw_Sales_Data.xlsx**  
+1. **Customer_Sales_Raw_Data.xlsx**  
    - Contains anonymized customer purchase data.
    - Fields: Marital Status, Gender, Income, Children, Education, Occupation, Commute Distance, Bike Purchase, etc.
 
-2. **Data_Cleaning_Steps.xlsx**  
+2. **Data Cleaning.xlsx**  
    - Cleaned and transformed the data for analysis.
    - Removed null values, standardized formats, added derived columns (e.g., Age Brackets).
 
-3. **Pivot_Analysis_and_Visuals.xlsx**  
+3. **Pivots and Charts.xlsx**  
    - Generated insights using pivot tables and charts.
    - Examples: Bike Purchase vs Income, Commute Distance, Age Groups.
 
-4. **Interactive_Dashboard.xlsx**  
+4. **Customer_Purchase_Insights_Dashboard.xlsx**  
    - A polished Excel dashboard showing KPIs and slicers.
    - Allows filtering by demographics, commute, region, and purchase behavior.
 
